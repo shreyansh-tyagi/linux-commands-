@@ -1,4 +1,3 @@
-history
     1  exit
     2  sudo apt install vlc
     3  exit
@@ -775,4 +774,63 @@ history
   774  sudo myodbc-installer -d -l
   775  clear
   776  history
+  777  clear
+  778  rpm -qa | grep -i odbc
+  779  sudo apt install rpm
+  780  rpm -qa | grep -i odbc
+  781  odbcinst -j 
+  782  cat /proc/modules | grep odbc
+  783  lsmod | grep odbc
+  784  odbc --version
+  785  cd /home/shreyansh
+  786  ls
+  787  ls -lart
+  788  clear
+  789  cd ..
+  790  tsql 0c
+  791  tsql -c
+  792  mysql -c
+  793  tsql -c
+  794  clear
+  795  odbcinst -j
+  796  /etc/odbcinst.ini
+  797  sudo /etc/odbcinst.ini
+  798  cat /etc/odbcinst.ini
+  799  mysql -s MSSQLDEV -u root -p
+  800  cat/etc/odbcinst.ini
+  801  cat /etc/odbcinst.ini
+  802  cat /etc/odbc.ini
+  803  cat /etc/ODBCDataSources
+  804  cd /etc/ODBCDataSources
+  805  la
+  806  ls
+  807  cat /etc/ODBCDataSources
+  808  cd ..
+  809  cat /etc/odbcinst.ini
+  810  clear
+  811  history
+  812  cd /home/shreyansh
+  813  ls
+  814  cd 'linux terminal commands'
+  815  ls
+  816  git init
+  817  ls
+  818  ls -lart
+  819  git status
+  820  git add .
+  821  git status
+  822  git commit -a -m 'linux terminal commands added '
+  823  git status
+  824  clear
+  825  touch README.md
+  826  ls
+  827  gedit README.md
+  828  gedit 'linux commands'
+  829  history
+
+
+/* terminal commands used till now */
+
+
+
 
