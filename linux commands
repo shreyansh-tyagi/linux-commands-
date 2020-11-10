@@ -1,0 +1,778 @@
+history
+    1  exit
+    2  sudo apt install vlc
+    3  exit
+    4  cd home
+    5  cd /home
+    6  ls
+    7  cd shreyansh
+    8  ls
+    9  cd c programs
+   10  cd /c programs
+   11  gcc --version
+   12  cd sql language
+   13  cd desktop
+   14  cd python programs
+   15  history
+   16  exit
+   17  cd /home/shreyansh
+   18  ls
+   19  cd 'sql programs'
+   20  ls
+   21  exit
+   22  cd /home/shreyansh
+   23  ls
+   24  cd c/programs
+   25  cd c/programs/
+   26  cd 'c programs'
+   27  l
+   28  ls
+   29  cd array
+   30  ls
+   31  ./arrayoutput
+   32  cd -
+   33  cd-
+   34  exit
+   35  cd /home/shreyanhs
+   36  cd home/shreyansh
+   37  clear
+   38  cd /home/shreyansh
+   39  ls
+   40  cd Downloads
+   41  ls
+   42  Anaconda3-2020.02-Linux-x86_64.sh 
+   43  cd -
+   44  ls
+   45  bash ~/Downloads/Anaconda3-2020.02-Linux-x86_64.sh 
+   46  conda list
+   47  exit
+   48  conda list
+   49  conda --version
+   50  conda update --all
+   51  conda --version
+   52  conda config --set auto_activate_base false
+   53  exit
+   54  anaconda-navigator
+   55  conda activate
+   56  anaconda-navigator
+   57  exit
+   58  history
+   59  conda config --set auto_activate_base true
+   60  exit
+   61  source deactivate
+   62  exit
+   63  conda config --set auto_activate_base false
+   64  exit
+   65  anaconda-navigator
+   66  conda activate
+   67  source deactivate
+   68  conda deactivate
+   69  exit
+   70  sudo apt update
+   71  apt list --upgradable
+   72  sudo apt upgrade
+   73  app --list upgradable
+   74  app list --upgradable
+   75  history
+   76  apt list --upgradable
+   77  clear
+   78  sudo apt-get install mysql-server
+   79  ip config
+   80  ipaddr show 
+   81  ip addr show
+   82  cat /etc/os-release
+   83  cd /home/shreyansh
+   84  ls
+   85  cd Downloads
+   86  ls
+   87  conda --version
+   88  cd -
+   89  exit
+   90  sudo apt-get autoremove
+   91  sudo apt-get autoclean
+   92  sudo apt-get autoremove
+   93  apt list --upgradable
+   94  clear
+   95  ip addr show
+   96  history
+   97  clear
+   98  cat /etc/os-release
+   99  clear
+  100  ip addr show
+  101  exit
+  102  sudo poweroff
+  103  ip addr show
+  104  netstat -rn
+  105  net stat -rn
+  106  ip addr show
+  107  apt list --upgradable
+  108  history
+  109  conda activate
+  110  conda --version
+  111  conda update --all
+  112  conda deactivate
+  113  sudo apt update
+  114  apt list --upgradable
+  115  sudo apt upgrade
+  116  apt list --upgradable
+  117  sudo apt update
+  118  exit
+  119  apt list --upgradable
+  120  sudo apt update
+  121  sudo apt install build-essential
+  122  gcc --version
+  123  cd /home/shreyansh
+  124  ls
+  125  cd 'c programs'
+  126  ls
+  127  cd structure
+  128  ls
+  129  ./output
+  130  cd -
+  131  ls
+  132  ./patternoutput
+  133  pattern.c
+  134  open pattern.c
+  135  cd pattern.c
+  136  cd array
+  137  ls
+  138  gcc array.c -o output
+  139  ls
+  140  ./output
+  141  ls
+  142  ./output
+  143  cd -
+  144  ls
+  145  gcc hello.c -o hellooutput
+  146  ./hellooutput
+  147  ls
+  148  gcc number.c -o numberoutput
+  149  ./numberoutput
+  150  ls
+  151  gcc num.c -o numoutput
+  152  ./numoutput
+  153  ls
+  154  gcc pattern.c -o patternoutput
+  155  ./patternoutput
+  156  la
+  157  ls
+  158  cd array
+  159  ls
+  160  cd -
+  161  ls
+  162  gcc while.c -o whileoutput
+  163  ./whileoutput
+  164  ls
+  165  cd structure
+  166  ls
+  167  gcc arrayinstructure.c -o output
+  168  ./output
+  169  ls
+  170  cd -
+  171  ls
+  172  cd structuresum
+  173  l
+  174  ls
+  175  gcc sum.c -o output
+  176  ./output
+  177  cd -
+  178  ls
+  179  cd pattern1
+  180  ls
+  181  gcc pattern.c -o output
+  182  ./output
+  183  cd -
+  184  ls
+  185  cd structure1
+  186  ls
+  187  gcc employee.c -o output
+  188  ./output
+  189  ls
+  190  cd -
+  191  ls
+  192  cd array
+  193  ls
+  194  cd -
+  195  cd sumarray
+  196  ls
+  197  gcc sum.c -o output
+  198  ./output
+  199  cd -
+  200  ls
+  201  cd -
+  202  clear
+  203  exit
+  204  sudo apt update
+  205  clear
+  206  sudo apt update
+  207  sudo apt-get install mysql-server
+  208  mysql
+  209  sudo mysql
+  210  exit
+  211  mysql -u root -p
+  212  exit
+  213  sudo mysql
+  214  mysql -u root -p
+  215  exit
+  216  history
+  217  exit
+  218  mysql -u root -p
+  219  conda activate
+  220  conda --version
+  221  conda deactivate
+  222  history
+  223  exit
+  224  conda activate
+  225  history
+  226  anaconda-navigator
+  227  exit
+  228  conda activate
+  229  anaconda-navigator
+  230  exit
+  231  conda activate
+  232  anaconda-navigator
+  233  exit
+  234  cat /etc/os-release
+  235  exit
+  236  sudo systemctl status mysql
+  237  sudo status mysql
+  238  sudo systemctl status mysql
+  239  conda activate
+  240  anaconda-navigator
+  241  exit
+  242  sudo apt update
+  243  exit
+  244  sudo apt update
+  245  conda activate
+  246  anaconda-navigator
+  247  exit
+  248  conda activate
+  249  anaconda-navigator
+  250  exit
+  251  history
+  252  cd /home/shreyansh
+  253  ls
+  254  cd c programs
+  255  cd 'c programs'
+  256  cd -
+  257  ls
+  258  cd /c/programs
+  259  cd c/programs
+  260  cd /c/programs/
+  261  clear
+  262  ls
+  263  cd 'c programs
+  264  ls
+  265  clear
+  266  exit
+  267  cd /home/shreyansh
+  268  ls
+  269  cd 'c programs'
+  270  ls
+  271  cd structuresum
+  272  ls
+  273  ./output
+  274  cd -
+  275  cd /home/shreyansh
+  276  ls
+  277  conda activate
+  278  ls
+  279  anaconda-navigator
+  280  exit
+  281  conda activate
+  282  anaconda-navigator
+  283  exit
+  284  conda activate
+  285  anaconda-navigator
+  286  exit
+  287  conda activate
+  288  anaconda deactivate
+  289  anaconda navigator
+  290  exit
+  291  conda activate
+  292  anaconda-navigator
+  293  exit
+  294  conda activate
+  295  anaconda-navigator
+  296  exit
+  297  conda activate
+  298  anaconda-navigator
+  299  exit
+  300  mysql -u root -p
+  301  history
+  302  exit
+  303  conda activate
+  304  anaconda-navigator
+  305  exit
+  306  conda activate
+  307  anaconda-navigator
+  308  exit
+  309  conda activate
+  310  anaconda-navigator
+  311  exit
+  312  conda activate
+  313  anaconda-navigator
+  314  exit
+  315  conda activate
+  316  anaconda-navigator
+  317  exit
+  318  sudo syetemd-resolve --statistics
+  319  sudo systemd-resolve --statistics
+  320  sudo-systemd-resolve --flush-caches
+  321  sudo systemd-resolve --flush-caches
+  322  sudo systemd-resolve --statistics
+  323  #sync; echo1 > /proc/sys/vm/drop_caches
+  324  #sync; echo2 > /proc/sys/vm/drop_caches
+  325  #sync; echo3 > /proc/sys/vm/drop_cahces
+  326  sudo systemd-resolve --statistics
+  327  sudo systemd-resolve --flush-caches
+  328  history
+  329  exit
+  330  conda activate
+  331  anaconda-navigator
+  332  exit
+  333  conda activate
+  334  anaconda-navigator
+  335  exit
+  336  text editor
+  337  exit
+  338  sudo apt update
+  339  apt list --upgradable
+  340  sudo apt upgrade
+  341  sudo apt update
+  342  clear
+  343  sudo apt-get install git
+  344  git --version
+  345  gcc --version
+  346  git status
+  347  cd /home/shreyansh
+  348  ls
+  349  cd 'c programs'
+  350  ls
+  351  cd pattern1
+  352  ls
+  353  ./ouput
+  354  ./output
+  355  cd--
+  356  cd --
+  357  ls
+  358  cd 'c programs'
+  359  ls
+  360  cd pattern1
+  361  ls
+  362  cd -
+  363  cd --
+  364  ls
+  365  cd -
+  366  cd ---
+  367  cd --
+  368  clear
+  369  history
+  370  exit
+  371  git --version
+  372  exit
+  373  history
+  374  gcc --version
+  375  git --version
+  376  clear
+  377  exit
+  378  hello everypn
+  379  hello there i am using terminal  hello there i am using terminal
+  380  hello i am sheraynsh tyagi a data analyst using terminal today
+  381  shreyansh@shreyansh-VirtualBox:~$ hello i am sheraynsh tyagi a data analyst using terminal today
+  382  Command 'hello' not found, but can be installed with:
+  383  sudo snap install hello              # version 2.10, or
+  384  sudo apt-get update
+  385  history
+  386  apt list --upgradable
+  387  sudo apt upgrade
+  388  sudo apt update
+  389  clear
+  390  mysql --version
+  391  python --version
+  392  conda --version
+  393  conda activate
+  394  conda --version
+  395  conda update --all
+  396  python --version
+  397  anaconda --version
+  398  clear
+  399  conda --version
+  400  exit
+  401  git --version
+  402  gcc --version
+  403  cd /home/shreyansh
+  404  ls
+  405  cd 'c programs'
+  406  ls
+  407  mkdir hello
+  408  ls
+  409  cd hello
+  410  ls
+  411  touch hello.c
+  412  ls
+  413  gcc hello.c -o output
+  414  ./output
+  415  clear
+  416  exit
+  417  history
+  418  clear
+  419  git --version
+  420  git status
+  421  cd /home/shreyansh
+  422  ls
+  423  cd 'c programs'
+  424  ls
+  425  git init
+  426  git status
+  427  git add .
+  428  git status
+  429  git commit -a -m 'some more c programs added from linux os '
+  430  git config --global user.email 'sunnytyagi886@gmail.com'
+  431  git config --global user.name 'shreyansh-tyagi'
+  432  git config --global user.email
+  433  git config --global user.name
+  434  git status
+  435  git commit -a -m 'some more c programs added from linux operating system'
+  436  git status
+  437  git remote add origin https://github.com/shreyansh-tyagi/More-programs-on-C.git
+  438  git remote 
+  439  git remote -v
+  440  git push -u origin master
+  441  git status
+  442  touch README.md
+  443  gedit README.md
+  444  git status
+  445  git add .
+  446  git commit -a -m 'readme added'
+  447  git push
+  448  git status
+  449  cd -
+  450  ls
+  451  cd 'python programs'
+  452  cd --
+  453  ls
+  454  cd 'sql programs'
+  455  cd --
+  456  ls
+  457  cd 'python programs'
+  458  cd  'python  programs' 
+  459  cd --
+  460  cd 'sql programs'
+  461  cd ..
+  462  cd 'python programs'
+  463  ls
+  464  git init 
+  465  git status
+  466  git add .
+  467  git commit -a -m 'python programs added '
+  468  git status
+  469  git remote 
+  470  git remote add origin  https://github.com/shreyansh-tyagi/python-progams-.git
+  471  git remote -v\
+  472  git push -u origin master
+  473  git status
+  474  git log --oneline
+  475  git branch
+  476  touch README.md
+  477  gedit README.md
+  478  git status
+  479  git add .
+  480  git commit -a -m 'readme added'
+  481  git status
+  482  git push
+  483  git status
+  484  cd ..
+  485  ls
+  486  cd 'sql programs'
+  487  ls
+  488  git init
+  489  git status
+  490  git add .
+  491  git commit -a -m 'sql queries added'
+  492  git log --oneline
+  493  git branch
+  494  git remote
+  495  git status
+  496  git remote add origin https://github.com/shreyansh-tyagi/SQL-queries.git
+  497  git remote 
+  498  git remote -v
+  499  git push -u origin master
+  500  git status
+  501  touch README.md
+  502  git status
+  503  git add .
+  504  git status
+  505  gedit README.md
+  506  git status
+  507  git add .
+  508  git commit -a -m 'readme added'
+  509  git log --oneline
+  510  git push
+  511  git status
+  512  clear
+  513  cd ..
+  514  history
+  515  exit
+  516  history
+  517  clear
+  518  pwd
+  519  cd /home/shreyansh
+  520  ls
+  521  cd 'sql programs'
+  522  ls
+  523  ls --lart
+  524  ls -lart
+  525  ls
+  526  git status
+  527  git add .
+  528  git status
+  529  git commit -a -m 'all sql query from start to end has been added'
+  530  git status
+  531  git branch 
+  532  git remote
+  533  git remote -v
+  534  git push
+  535  git status
+  536  git add .
+  537  git status
+  538  git commit -a -m 'added operator queries '
+  539  git status
+  540  git push
+  541  git status
+  542  ls
+  543  gedit README.me
+  544  gedit README.md
+  545  git status
+  546  git add .
+  547  git commit -a -m 'readme modified '
+  548  git status
+  549  git push
+  550  git status
+  551  gedit README.md
+  552  git status
+  553  git add .
+  554  git commit -a -m 'file renamed to SQL QUERY FROM STARTING TO END'
+  555  git status
+  556  git remote -v
+  557  git push
+  558  git status
+  559  cd ..
+  560  history
+  561  clear
+  562  exit
+  563  cd /home/shreyansh
+  564  ls
+  565  cd 'sql programs'
+  566  ls
+  567  git status
+  568  git add .
+  569  git commit -a -m 'added some more query'
+  570  git status
+  571  git remote
+  572  git remote -v
+  573  git push
+  574  git status
+  575  git add .
+  576  git status
+  577  git commit -a -m 'view query added'
+  578  git status
+  579  git remote 
+  580  git remote -v
+  581  git push
+  582  git status
+  583  cd /home/shreyansh
+  584  ls
+  585  cd 'sql programs'
+  586  git status
+  587  git add .
+  588  git commit -a -m 'merge statement added'
+  589  git status
+  590  git push
+  591  git status
+  592  cd ..
+  593  clear
+  594  history
+  595  exit
+  596  mysql -u root -p
+  597  ip a
+  598  sudo apt update
+  599  apt list --upgradable
+  600  sudo apt update
+  601  sudo apt upgrade
+  602  sudo apt update
+  603  clear
+  604  sudo systemctl status mysql
+  605  history
+  606  clear
+  607  sudo apt update
+  608  clear
+  609  sudo apt install mysql-client
+  610  mysql --version
+  611  mysql-server --version
+  612  mysql-client
+  613  clear
+  614  id a
+  615  ip a
+  616  mysql -h 192.168.16.106 -u root -p
+  617  sudo Text Editor /etc/mysql/mysql.conf.d/mysqld.cnf
+  618  sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
+  619  mysql -u root -p
+  620  clear
+  621  sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
+  622  histroy
+  623  history
+  624  sudo systemctl status mysql
+  625  sudo systemctl restart mysql
+  626  sudo systemctl status mysql
+  627  clear
+  628  mysql -h 192.168.16.106 -u root -p
+  629  mysql -u root -p
+  630  clear
+  631  exit
+  632  mysql -u root -p
+  633  sudo systemctl status mysql
+  634  clear
+  635  mysql -u shreyansh -p 
+  636  mysql -u root -p
+  637  exit
+  638  odbcinst -j
+  639  lsmod | grep odbc
+  640  cat /proc/modules |grep odbc
+  641  cd home/shreyansh/.odbcinst.ini
+  642  sudo apt-get install libmyodbc
+  643  mysql --version
+  644  mysql workbench --version
+  645  cd /home/shreyansh/Downloads
+  646  ls
+  647  cd  mysql-connector-odbc_8.0.22-1ubuntu20.04_amd64 
+  648  ls
+  649  sudo cp  mysql-connector-odbc_8.0.22-1ubuntu20.04_amd64/lib/x86_64-linux-gnu/odbc/
+  650  cd ..
+  651  tar -xvf  mysql-connector-odbc_8.0.22-1ubuntu20.04_amd64 
+  652  cd /home/shreyansh
+  653  ls
+  654  cd /Downloads
+  655  cd Downloads
+  656  ls
+  657  tar -xvf  mysql-connector-odbc-5.3.14-linux-ubuntu19.10-x86-64bit.tar.gz
+  658  exit
+  659  history
+  660  mysql -u root -p
+  661  mysql -u shreyansh -p
+  662  clear
+  663  cd /home/shreyansh
+  664  ls
+  665  cd Downloads
+  666  ls
+  667  exit
+  668  cd /home /shreyansh
+  669  cd /home/shreyansh
+  670  ls
+  671  cd Downloads
+  672  ls
+  673  sudo cp mysql-connector-odbc-5.3.14-linux-ubuntu19.10-x86-64bit.tar.gz
+  674  ls
+  675  sudo cp mysql-connector-odbc-5.3.14-linux-ubuntu19.10-x86-64bit/lib/libmyodbc5*/usr/lib/x86_64-linux-gnu/odbc/
+  676  cp --help
+  677  clear
+  678  exit
+  679  cd /home/shreyansh
+  680  cd Downloads
+  681  ls
+  682  cd mysql-connector-odbc-5.3.14-linux-ubuntu19.10-x86-64bit
+  683  ls
+  684  cp bin/* /usr/local/bin
+  685  cp lib/* /usr/local/lib
+  686  history
+  687  sudo cp mysql-connector-odbc-5.3.14-linux-ubuntu19.10-x86-64bit/lib/libmyodbc5*/usr/lib/x86_64-linux-gnu/odbc/
+  688  sudo cp bin/* /usr/local/bin
+  689  sudo cp lib/* /usr/local/lib
+  690  ls
+  691  sudo myodbc-installer -a -d -n "MySQL ODBC 5.3 Driver" -t "Driver=/usr/local/lib/libmyodbc5w.so"
+  692  sudo myodbc-installer -a -d -n "MySQL ODBC 5.3" -t "Driver=/usr/local/lib/libmyodbc5a.so"
+  693  sudo mysql-connector-odbc-5.3.14-linux-ubuntu19.10-x86-64bit/bin/myobc-installer -d -a -n "MySQL" -t "DRIVER=/usr/lib/x86_64-linux-gnu/odbc/libodbc5w.so";
+  694  ls
+  695  cd bin
+  696  ls
+  697  cd -
+  698  ls
+  699  cd lib
+  700  ls
+  701  sudo  myodbc-installer -a -d -n "MySQL ODBC 5.3 Driver" -t "Driver=/usr/local/lib/libmyodbc5w.so"
+  702  cd -
+  703  cd bin
+  704  ls
+  705  cd -
+  706  sudo  myodbc-installer -d -l
+  707  cd -
+  708  cd ..
+  709  cd .
+  710  cd ...
+  711  cd ..
+  712  clear
+  713  ls
+  714  sudo mysql-connector-odbc-5.3.14-linux-ubuntu19.10-x86-64bit/bin/myodbc-installer -d -a -n "MySQL" -t "DRIVER=/usr/lib/libmyodbc5w.so";
+  715  cd mysql-connector-odbc-5.3.14-linux-ubuntu19.10-x86-64bit  
+  716  ls
+  717  cd lib
+  718  ls
+  719  clear
+  720  cd ..
+  721  clear
+  722  tar xvf mysql-connector-odbc-8.0.17-linux-ubuntu18.04-x86–64bit.tar.gz
+  723  ls
+  724  tar xvf mysql-connector-odbc-8.0.22-linux-glibc2.12-x86-64bit.tar.gz
+  725  cp bin/* /usr/local/bin
+  726  ls
+  727  cd mysql-connector-odbc-8.0.22-linux-glibc2.12-x86-64bit
+  728  ls
+  729  cp bin/* /usr/local/bin
+  730  sudo cp bin/* /usr/local/bin
+  731  sudo  cp lib/* /usr/local/lib
+  732  sudo apt-get install libodbc1
+  733  sudo apt update
+  734  apt list --upgradable
+  735  sudo apt upgrade
+  736  sudo apt update
+  737  sudo apt-get install odbcinst1debian2
+  738  sudo  myodbc-installer -a -d -n “MySQL ODBC 8.0 Driver” -t “Driver=/usr/local/lib/libmyodbc8w.so”
+  739  shell> myodbc-installer -a -d -n “MySQL ODBC 8.0 Driver” -t “Driver=/usr/local/lib/libmyodbc8w.so” 
+  740  sudo apt install myodbc-installer -a -d -n “MySQL ODBC 8.0 Driver” -t “Driver=/usr/local/lib/libmyodbc8w.so” 
+  741  sudo apt install myodbc-installer -d -a -n "MySQL ODBC 8.0 Driver" -t"Driver=/usr/local/lib/libmyodbc8w.so"
+  742  sudo apt install myodbc-installer -d -n "MySQL ODBC 8.0 Driver" -t "Driver=/usr/local/lib/libmyodbc8w.so"
+  743  cd ..
+  744  sudo myodbc-installer -a -d -n “MySQL ODBC 8.0 Driver” -t “Driver=/usr/local/lib/libmyodbc8w.so” 
+  745  sudo myodbc-installer -a -d -n "MySQL" -t "Driver=/usr/local/lib/libmyodbc8w.so"
+  746  sudo  myodbc-installer -a -d -n “MySQL ODBC 8.0” -t “Driver=/usr/local/lib/libmyodbc8a.so”
+  747  sudo myodbc-installer -a -d -n "MySQL" -t "Driver=/usr/local/lib/libmyodbc8a.so"
+  748  sudo myodbc-installer -d -l
+  749  mysql --version
+  750  mysql workbench --version
+  751  mysql -v
+  752  mysql -u root -p
+  753  sudo cp -r lib/* /usr/local/bin
+  754  cd /home/shreyansh/Downloads
+  755  ls
+  756  cd mysql-connector-odbc-8.0.22-linux-glibc2.12-x86-64bit
+  757  ls
+  758  sudo cp -r lib/* /usr/local/lib
+  759  ls
+  760  cd bin
+  761  ls
+  762  cd -
+  763  ls
+  764  sudo cp bin/* /usr/local/bin
+  765  sudo chmod 777 /usr/local/lib/libmy*
+  766  sudo apt-get install libodbc1
+  767  sudo apt-get install odbcinst1debian2
+  768  sudo myodbc-installer -a -d -n “MySQL ODBC 8.0 Driver” -t “Driver=/usr/local/lib/libmyodbc8w.so” 
+  769  sudo myodbc-installer -a -d -n "MySQL" -t "Driver=/usr/local/lib/libmyodbc8w.so"
+  770  sudo  myodbc-installer -a -d -n “MySQL ODBC 8.0” -t “Driver=/usr/local/lib/libmyodbc8a.so”
+  771  sudo myodbc-installer -a -d -n "MySQL" -t "Driver=/usr/local/lib/libmyodbc8a.so"
+  772  sudo myodbc-installer -d -l
+  773  cd ..
+  774  sudo myodbc-installer -d -l
+  775  clear
+  776  history
+
