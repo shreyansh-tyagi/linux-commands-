@@ -1,11 +1,4 @@
-    1  exit
-    2  sudo apt install vlc
-    3  exit
-    4  cd home
-    5  cd /home
-    6  ls
-    7  cd shreyansh
-    8  ls
+ 8  ls
     9  cd c programs
    10  cd /c programs
    11  gcc --version
@@ -827,10 +820,182 @@
   827  gedit README.md
   828  gedit 'linux commands'
   829  history
-
-
-/* terminal commands used till now */
-
-
-
+  830  clear
+  831  ls
+  832  gedit 'linux commands'
+  833  git status
+  834  git add .
+  835  git commit -a -m 'readme added and some more commands added'
+  836  git status
+  837  git remote add origin https://github.com/shreyansh-tyagi/linux-commands-.git
+  838  git remote
+  839  git remote -v
+  840  git push -u origin master
+  841  git status
+  842  clera
+  843  clear
+  844  git status
+  845  cd ..
+  846  clear
+  847  libiodbc2-dev --version
+  848  sudo apt install libiodbc2-dev
+  849  libiodbc2-dev --version
+  850  sudo apt install libiodbc2-dev
+  851  clear
+  852  odbcinst -j
+  853  clear
+  854  mkdir ~/freetds 
+  855  ls
+  856  cd ~/freetds
+  857  ls
+  858  cd freetds-current
+  859  ls
+  860  freetds-dev.1.2.84
+  861  cd freetds-dev.1.2.84
+  862  la
+  863  build_freetds.sh
+  864  cd ..
+  865  ls
+  866  cd 'freetds-current (1)'
+  867  ls
+  868  cd freetds-dev.1.2.84
+  869  ls
+  870  build_freetds.sh
+  871  exit
+  872  sudo systemctl status mysql
+  873  sudo systemctl restart mysql
+  874  sudo systemctl status mysql
+  875  clear
+  876  odbcinst -j
+  877  cat /etc/odbcinst.ini
+  878  clear
+  879  exit
+  880  history
+  881  clear
+  882  mysql --version
+  883  odbcinst -j
+  884  cat /etc/odbcinst.ini
+  885  iodbcadm-gtk
+  886  sudo apt update
+  887  apt list --upgradable
+  888  sudo apt upgrade
+  889  sudo apt update
+  890  sudo apt-get install iodbc
+  891  sudo apt-get install libmyodbc
+  892  iodbcadm-gtk
+  893  cat /etc/odbcinct.ini
+  894  cat /etc/odbcinst.ini
+  895  odbcinst -j
+  896  cat /usr/lib/odbc/libmyodbc.so
+  897  cat /usr/lib/odbc/libmyodbc.so.
+  898  cat /usr/lib/odbc/libodbcmyS.so.
+  899  cat /usr/lib/odbc/libodbcmyS.so
+  900  cat /usr/local/lib/odbc/libodbcmyS.so
+  901  cat /usr/local/lib/libmyodbc8w.so
+  902  clear
+  903  exit
+  904  odbcinst -j
+  905  exit
+  906  cat /etc/iodbc
+  907  cat /usr/local/iodbc
+  908  cat /usr/local/lib/iodbc
+  909  clear
+  910  iodbcadm.gtk
+  911  iodbcadm-gtk
+  912  odbcinst -j
+  913  odbcadm-gtk
+  914  iodbcadm-gtk
+  915  exit
+  916  isql --version
+  917  sudo apt-get install unixodbc
+  918  isql --version
+  919  odbcinst -j
+  920  cat /etc/odbcinst.ini
+  921  clear
+  922  exit
+  923  ip addr
+  924  sudo apt update
+  925  sudo su
+  926  sudo apt-get update
+  927  sudo apt update
+  928  sudo ACCEPT_EULA=Y apt-get install msodbcsql17
+  929  sudo apt-get install unixodbc-dev
+  930  isql --version
+  931  sudo apt-get install libgssapi-krb5-2
+  932  sudo apt update
+  933  sudo su
+  934  sudo apt-get update
+  935  sudo ACCEPT_EULA=Y apt-get install msodbcsql17
+  936  sudo ACCEPT_EULA=Y apt-get install mssql-tools
+  937  echo 'export PATH="$PATH:/opt/mssql-tools/bin"' >> ~/.bash_profile
+  938  echo 'export PATH="$PATH:/opt/mssql-tools/bin"' >> ~/.bashrc
+  939  source ~/.bashrc
+  940  sudo apt-get install unixodbc-dev
+  941  clear
+  942  iodbcadm-gtk
+  943  odbcinst -j
+  944  cat /etc/odbcinst.ini
+  945  clear
+  946  sudo apt-get install iodbc
+  947  clear
+  948  sudo apt update
+  949  clear
+  950  mysql -u root -p
+  951  mysql -u shreyansh -p
+  952  mysql -u root -p
+  953  clear
+  954  sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
+  955  sudo systemctl restart mysql
+  956  sudo systemctl status mysql
+  957  sudo ufw allow from 192.168.16.103 to any port 3306
+  958  sudo firewall-cmd --new-zone=mysqlrule --permanent
+  959  sudo iptables -A INPUT -p tcp --dport 3306 -j ACCEPT
+  960  sudo firewall-cmd --reload
+  961  sudo netfilter-persistent save
+  962  sudo netfilter-persistent reload
+  963  service iptables save
+  964  mysql -u DESKTOP-RVCPNL8\shreyansh tyagi  -h 192.168.16.103 
+  965  mysql -u sheyansh -p 
+  966  mysql -u root -p
+  967  clear
+  968  mysql -h 198.168.16.106 -u root -p
+  969  ip addr
+  970  exit
+  971  mysql -u root -p
+  972  clear
+  973  mysql -u root -p
+  974  clear
+  975  history
+  976  clear
+  977  exit
+  978  sudo apt  update
+  979  git --version
+  980  cd /home/shreyansh
+  981  ls
+  982  cd 'sql query'
+  983  ls
+  984  git status
+  985  git add .
+  986  git status
+  987  gedit SQL QUERY FROM STARTING TO END.sql
+  988  gedit <SQL QUERY FROM STARTING TO END.sql>
+  989  git status
+  990  cd ..
+  991  ls
+  992  cd 'c programs'
+  993  git status
+  994  cd ..
+  995  touch hello.c
+  996  ls
+  997  gedit hello.c
+  998  cd 'sql query' 
+  999  git status
+ 1000  git commit -a -m 'sql query from start to end added'
+ 1001  git status
+ 1002  git remote -v
+ 1003  git log --oneline
+ 1004  git push
+ 1005  git status
+ 1006  cd ..
+ 1007  history
 
