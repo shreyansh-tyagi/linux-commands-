@@ -1,225 +1,3 @@
- 8  ls
-    9  cd c programs
-   10  cd /c programs
-   11  gcc --version
-   12  cd sql language
-   13  cd desktop
-   14  cd python programs
-   15  history
-   16  exit
-   17  cd /home/shreyansh
-   18  ls
-   19  cd 'sql programs'
-   20  ls
-   21  exit
-   22  cd /home/shreyansh
-   23  ls
-   24  cd c/programs
-   25  cd c/programs/
-   26  cd 'c programs'
-   27  l
-   28  ls
-   29  cd array
-   30  ls
-   31  ./arrayoutput
-   32  cd -
-   33  cd-
-   34  exit
-   35  cd /home/shreyanhs
-   36  cd home/shreyansh
-   37  clear
-   38  cd /home/shreyansh
-   39  ls
-   40  cd Downloads
-   41  ls
-   42  Anaconda3-2020.02-Linux-x86_64.sh 
-   43  cd -
-   44  ls
-   45  bash ~/Downloads/Anaconda3-2020.02-Linux-x86_64.sh 
-   46  conda list
-   47  exit
-   48  conda list
-   49  conda --version
-   50  conda update --all
-   51  conda --version
-   52  conda config --set auto_activate_base false
-   53  exit
-   54  anaconda-navigator
-   55  conda activate
-   56  anaconda-navigator
-   57  exit
-   58  history
-   59  conda config --set auto_activate_base true
-   60  exit
-   61  source deactivate
-   62  exit
-   63  conda config --set auto_activate_base false
-   64  exit
-   65  anaconda-navigator
-   66  conda activate
-   67  source deactivate
-   68  conda deactivate
-   69  exit
-   70  sudo apt update
-   71  apt list --upgradable
-   72  sudo apt upgrade
-   73  app --list upgradable
-   74  app list --upgradable
-   75  history
-   76  apt list --upgradable
-   77  clear
-   78  sudo apt-get install mysql-server
-   79  ip config
-   80  ipaddr show 
-   81  ip addr show
-   82  cat /etc/os-release
-   83  cd /home/shreyansh
-   84  ls
-   85  cd Downloads
-   86  ls
-   87  conda --version
-   88  cd -
-   89  exit
-   90  sudo apt-get autoremove
-   91  sudo apt-get autoclean
-   92  sudo apt-get autoremove
-   93  apt list --upgradable
-   94  clear
-   95  ip addr show
-   96  history
-   97  clear
-   98  cat /etc/os-release
-   99  clear
-  100  ip addr show
-  101  exit
-  102  sudo poweroff
-  103  ip addr show
-  104  netstat -rn
-  105  net stat -rn
-  106  ip addr show
-  107  apt list --upgradable
-  108  history
-  109  conda activate
-  110  conda --version
-  111  conda update --all
-  112  conda deactivate
-  113  sudo apt update
-  114  apt list --upgradable
-  115  sudo apt upgrade
-  116  apt list --upgradable
-  117  sudo apt update
-  118  exit
-  119  apt list --upgradable
-  120  sudo apt update
-  121  sudo apt install build-essential
-  122  gcc --version
-  123  cd /home/shreyansh
-  124  ls
-  125  cd 'c programs'
-  126  ls
-  127  cd structure
-  128  ls
-  129  ./output
-  130  cd -
-  131  ls
-  132  ./patternoutput
-  133  pattern.c
-  134  open pattern.c
-  135  cd pattern.c
-  136  cd array
-  137  ls
-  138  gcc array.c -o output
-  139  ls
-  140  ./output
-  141  ls
-  142  ./output
-  143  cd -
-  144  ls
-  145  gcc hello.c -o hellooutput
-  146  ./hellooutput
-  147  ls
-  148  gcc number.c -o numberoutput
-  149  ./numberoutput
-  150  ls
-  151  gcc num.c -o numoutput
-  152  ./numoutput
-  153  ls
-  154  gcc pattern.c -o patternoutput
-  155  ./patternoutput
-  156  la
-  157  ls
-  158  cd array
-  159  ls
-  160  cd -
-  161  ls
-  162  gcc while.c -o whileoutput
-  163  ./whileoutput
-  164  ls
-  165  cd structure
-  166  ls
-  167  gcc arrayinstructure.c -o output
-  168  ./output
-  169  ls
-  170  cd -
-  171  ls
-  172  cd structuresum
-  173  l
-  174  ls
-  175  gcc sum.c -o output
-  176  ./output
-  177  cd -
-  178  ls
-  179  cd pattern1
-  180  ls
-  181  gcc pattern.c -o output
-  182  ./output
-  183  cd -
-  184  ls
-  185  cd structure1
-  186  ls
-  187  gcc employee.c -o output
-  188  ./output
-  189  ls
-  190  cd -
-  191  ls
-  192  cd array
-  193  ls
-  194  cd -
-  195  cd sumarray
-  196  ls
-  197  gcc sum.c -o output
-  198  ./output
-  199  cd -
-  200  ls
-  201  cd -
-  202  clear
-  203  exit
-  204  sudo apt update
-  205  clear
-  206  sudo apt update
-  207  sudo apt-get install mysql-server
-  208  mysql
-  209  sudo mysql
-  210  exit
-  211  mysql -u root -p
-  212  exit
-  213  sudo mysql
-  214  mysql -u root -p
-  215  exit
-  216  history
-  217  exit
-  218  mysql -u root -p
-  219  conda activate
-  220  conda --version
-  221  conda deactivate
-  222  history
-  223  exit
-  224  conda activate
-  225  history
-  226  anaconda-navigator
-  227  exit
-  228  conda activate
-  229  anaconda-navigator
   230  exit
   231  conda activate
   232  anaconda-navigator
@@ -968,34 +746,256 @@
   975  history
   976  clear
   977  exit
-  978  sudo apt  update
-  979  git --version
-  980  cd /home/shreyansh
-  981  ls
-  982  cd 'sql query'
-  983  ls
-  984  git status
-  985  git add .
-  986  git status
-  987  gedit SQL QUERY FROM STARTING TO END.sql
-  988  gedit <SQL QUERY FROM STARTING TO END.sql>
-  989  git status
-  990  cd ..
-  991  ls
-  992  cd 'c programs'
-  993  git status
-  994  cd ..
-  995  touch hello.c
-  996  ls
-  997  gedit hello.c
-  998  cd 'sql query' 
-  999  git status
- 1000  git commit -a -m 'sql query from start to end added'
- 1001  git status
- 1002  git remote -v
- 1003  git log --oneline
- 1004  git push
- 1005  git status
- 1006  cd ..
- 1007  history
+  978  git --version
+  979  cd /home/shreyansh
+  980  ls
+  981  cd 'sql query'
+  982  ls
+  983  git status
+  984  git add .
+  985  git status
+  986  gedit SQL QUERY FROM STARTING TO END.sql
+  987  gedit <SQL QUERY FROM STARTING TO END.sql>
+  988  git status
+  989  cd ..
+  990  ls
+  991  cd 'c programs'
+  992  git status
+  993  cd ..
+  994  touch hello.c
+  995  ls
+  996  gedit hello.c
+  997  cd 'sql query' 
+  998  git status
+  999  git commit -a -m 'sql query from start to end added'
+ 1000  git status
+ 1001  git remote -v
+ 1002  git log --oneline
+ 1003  git push
+ 1004  git status
+ 1005  cd ..
+ 1006  history
+ 1007  ls
+ 1008  cd 'linux terminal commands' 
+ 1009  ls
+ 1010  git status
+ 1011  git add .
+ 1012  git commit -a -m 'adding more linux terminal commands that i have run till now'
+ 1013  git status
+ 1014  git remote -v
+ 1015  git push
+ 1016  git status
+ 1017  cd ..
+ 1018  clear
+ 1019  exit
+ 1020  cd /home/shreyansh
+ 1021  ls
+ 1022  cd 'sql query'
+ 1023  ls
+ 1024  git status
+ 1025  git add .
+ 1026  git commit -a -m 'sql command from basic to end has been added'
+ 1027  git status 
+ 1028  git remote -v
+ 1029  git push
+ 1030  git log --oneline
+ 1031  git status
+ 1032  cd ..
+ 1033  clear
+ 1034  exit
+ 1035  sudo apt update
+ 1036  apt list --upgradable
+ 1037  sudo apt upgrade
+ 1038  clear
+ 1039  sudo apt update
+ 1040  mysql -u root -p
+ 1041  exit
+ 1042  conda activate
+ 1043  anaconda-navigator
+ 1044  sudo apt update
+ 1045  exit
+ 1046  conda activate
+ 1047  anaconda-navigator
+ 1048  conda activate
+ 1049  conda --version
+ 1050  anaconda-navigator
+ 1051  clear
+ 1052  cd /home/shreyansh
+ 1053  ls
+ 1054  cd 'python programs'
+ 1055  git status
+ 1056  git add .
+ 1057  git commit -a -m 'added some more functions used in python'
+ 1058  git remote -v
+ 1059  git push
+ 1060  git status
+ 1061  git add .
+ 1062  git commit -a -m 'added split function'
+ 1063  git push
+ 1064  git status
+ 1065  git add .
+ 1066  git commit -a -m 'swapcase function added'
+ 1067  git push
+ 1068  cd ..
+ 1069  exit
+ 1070  conda activate
+ 1071  anaconda-navigator
+ 1072  exit
+ 1073  cd /home/shreyansh
+ 1074  ls
+ 1075  cd  'python programs'
+ 1076  git status
+ 1077  cd ..
+ 1078  exit
+ 1079  sudo apt update
+ 1080  apt list --upgradable
+ 1081  sudo apt upgrade
+ 1082  git --version
+ 1083  exit
+ 1084  sudo apt-get install -f
+ 1085  exit
+ 1086  sudo apt update
+ 1087  clear
+ 1088  exit
+ 1089  sudo apt update
+ 1090  conda activate
+ 1091  anaconda-navigator
+ 1092  cd /home/shreyansh
+ 1093  ls
+ 1094  cd 'python programs'
+ 1095  git status
+ 1096  git add .
+ 1097  git commit -a -m 'added global keyword file'
+ 1098  git push
+ 1099  git add .
+ 1100  git commit -a -m 'change in global variable program'
+ 1101  git status
+ 1102  git push
+ 1103  exit
+ 1104  sudo apt update
+ 1105  exit
+ 1106  sudo apt update
+ 1107  clear
+ 1108  conda activate
+ 1109  anaconda-navigator
+ 1110  exit
+ 1111  sudo apt update
+ 1112  apt list --upgradable
+ 1113  sudo apt upgrade
+ 1114  exit
+ 1115  conda activate
+ 1116  anaconda-navigator
+ 1117  cd /home/shreyansh
+ 1118  ls
+ 1119  cd 'python programs'
+ 1120  ls
+ 1121  git status
+ 1122  git add ,
+ 1123  git add .
+ 1124  git status
+ 1125  git add .
+ 1126  git status
+ 1127  git commit -a -m 'hackerank solution added'
+ 1128  git push
+ 1129  git remote -v
+ 1130  git push
+ 1131  git status
+ 1132  git add .
+ 1133  git commit -a -m 'made changes in hacker rank program'
+ 1134  git status
+ 1135  git push
+ 1136  git status
+ 1137  git add .
+ 1138  git commit -a -m 'modified hackerrank program'
+ 1139  git push
+ 1140  git add .
+ 1141  git commit -a -m 'changes in program'
+ 1142  git push
+ 1143  git puhs
+ 1144  git push
+ 1145  git status
+ 1146  git status 
+ 1147  git add .
+ 1148  git commit -a -m  'madhukar program added '
+ 1149  git push
+ 1150  git status
+ 1151  git add .
+ 1152  git commit -a -m 
+ 1153  git status
+ 1154  git commit -a -m 'added madhurkar collection of $37000'
+ 1155  git push
+ 1156  git status
+ 1157  exit
+ 1158  sudo apt update
+ 1159  apt list --upgradable
+ 1160  clear
+ 1161  cd /home/shreyans
+ 1162  cd /home/shreyansh
+ 1163  ls
+ 1164  cd 'python programs'
+ 1165  git status
+ 1166  git config --global user.name'shreyansh-tyagi'
+ 1167  git congif --global user.email'sunnytyagi886@gmail.com'
+ 1168  git config --global user.email'sunnytyagi886@gmail.com'
+ 1169  git status
+ 1170  git push
+ 1171  clear
+ 1172  cd ..
+ 1173  ssh-keygen -o
+ 1174  cat /home/shreyansh/.ssh/id_rsa.pub
+ 1175  clear
+ 1176  ls
+ 1177  cd 'python programs'
+ 1178  git push
+ 1179  cd 'python programs'
+ 1180  git push
+ 1181  exit
+ 1182  git --version
+ 1183  gcc --version
+ 1184  git help credentials
+ 1185  cd 'python programs'
+ 1186  git status
+ 1187  git push
+ 1188  cd ..
+ 1189  ssh -T -p 443 git@ssh.github.com
+ 1190  ~/.ssh/config
+ 1191  cat /home/shreyansh/.ssh/config
+ 1192  cat ~/.ssh/config
+ 1193  cd 'python programs'
+ 1194  git status
+ 1195  git push
+ 1196  cat /home/shreyansh/.ssh/id_rsa.hub
+ 1197  git remote -v
+ 1198  git remote set-url origin git@github.com:shreyansh-tyagi/python-progams-.git
+ 1199  git remote -v
+ 1200  git status
+ 1201  git push
+ 1202  cd ..
+ 1203  ls
+ 1204  cd 'sql query'
+ 1205  git status
+ 1206  git remote -v
+ 1207  git push
+ 1208  git remote -v
+ 1209  git remote set-url origin git@github.com:shreyansh-tyagi/SQL-queries.git
+ 1210  git remote -v
+ 1211  git push
+ 1212  cd ..
+ 1213  ls
+ 1214  cd 'c programs'
+ 1215  ls
+ 1216  git status
+ 1217  git remote -v
+ 1218  git remote set-url origin git@github.com:shreyansh-tyagi/More-programs-on-C.git
+ 1219  git status
+ 1220  git push
+ 1221  git remote -v
+ 1222  cd ..
+ 1223  ls
+ 1224  cd 'linux terminal commands'
+ 1225  git remote -v
+ 1226  git remote set-url origin git@github.com:shreyansh-tyagi/linux-commands-.git
+ 1227  git remote -v
+ 1228  git status
+ 1229  history
 
